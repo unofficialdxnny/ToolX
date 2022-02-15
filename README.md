@@ -23,3 +23,23 @@ banner = """
 """
 ```
 
+
+```py
+
+menu = """
+
+1. Dice
+                       
+2. Guess
+
+3. Password Generator
+
+4. IP Lookup
+
+5. Instagram User Details
+
+0. Exit
+
+"""
+
+```
