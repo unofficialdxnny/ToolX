@@ -1,6 +1,9 @@
 import sys
 import os
 import random
+import django
+
+
 ### Code for dice
 
 class bcolors:
@@ -72,7 +75,7 @@ menu = """
                 
 3. Password Generator                   8. Encode To Base64
 
-4. IP Lookup
+4. IP Lookup                             
 
 5. Instagram User Details
 
