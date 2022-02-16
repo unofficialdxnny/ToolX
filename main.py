@@ -66,11 +66,11 @@ kb.press('F11')
 
 menu = """
 
-1. Dice
-                6. Calculator       
-2. Guess
-
-3. Password Generator
+1. Dice Menu                            6. Calculator
+                       
+2. Guess                                7. Encode In Hash
+                
+3. Password Generator                   8. Encode To Base64
 
 4. IP Lookup
 
@@ -265,13 +265,39 @@ while True:
         
         # check if user wants another calculation
         # break the while loop if answer is no
-                next_calculation = input("Let's do next calculation? (yes/no): ")
-                if next_calculation == "no":
-                    break
+                time.sleep(5)
+
+
     
-                else:
-                    print("Invalid Input")
-      
+    elif opt == 7:
+        import hashlib
+        import time
+        my_string = input("What Is The Message You Would Like To Encode? : ")
+        hash_object = hashlib.sha512(b'Hello World')
+        hex_dig = hash_object.hexdigest()
+        print(hex_dig)
+        time.sleep(5)
+
+
+
+    elif opt == 8:
+        import base64
+        import time
+
+        message = input("What Is Your Text Message? : ")
+        message_bytes = message.encode('ascii')
+        base64_bytes = base64.b64encode(message_bytes)
+        
+
+        print(base64_bytes)
+        time.sleep(5)
+
+
+
+
+    
+
+
 
     elif opt == 0:
         import sys
