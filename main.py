@@ -233,11 +233,15 @@ while True:
 
 
         print("Select operation.")
+        print("")
         print("1.Add")
+        print("")
         print("2.Subtract")
+        print("")
         print("3.Multiply")
+        print("")
         print("4.Divide")
-
+        print("")
         while True:
     # take input from the user
             choice = input("Enter choice(1/2/3/4): ")
