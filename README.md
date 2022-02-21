@@ -4,8 +4,8 @@
 
 
 
-
 ### Contributing
+Please make sure that all tools that you add are in the same loop and these can be anything useful that can be used on a day to day bases
 
 - Fork the repository https://github.com/your-username/ToolX
 - Clone your fork git clone https://github.com/your-username/ToolX
