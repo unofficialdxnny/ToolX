@@ -310,5 +310,4 @@ while True:
         browser.open("https://github.com/unofficialdxnny")
         browser.open("https://instagram.com/unofficialdxnny")
         browser.open("https://discord.gg/tT2cS8c44p")
-        os.system('video-to-ascii -f end.mp4')
         sys.exit()
