@@ -5,7 +5,9 @@
 
 
 ### Contributing
-Please make sure that all tools that you add are in the same loop and these can be anything useful that can be used on a day to day bases
+
+Please make sure that all tools that you add are in the same loop and these can be anything useful that can be used on a day to day bases 
+Please view the <a href="">CONTRIBUTING.md</a> For further details(recommended)
 
 - Fork the repository https://github.com/your-username/ToolX
 - Clone your fork git clone https://github.com/your-username/ToolX
