@@ -1,4 +1,11 @@
 
+
+<a href="https://instagram.com/unofficialdxnny"><p align="center">
+  <img src="https://imgur.com/P7MFANM.png">
+</p></a>
+
+
+
 ### Contributing
 
 - <a href="https://github.com/unofficialdxnny/ToolX/fork">Fork the repository</a> 
@@ -19,7 +26,7 @@ I have decided to explain the code from 0 - 100% as I'd like complete beginners 
 
 So proceeding from the first line i have imported some modules i am going to use
 
-<img src="">
+<img src="./images/imports">
 
 
 ### Colour Usage 
