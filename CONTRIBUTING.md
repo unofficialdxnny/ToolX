@@ -1,7 +1,7 @@
 
 ### Contributing
 
-- Fork the repository https://github.com/your-username/ToolX
+- <a href="https://github.com/unofficialdxnny/ToolX/fork">Fork the repository</a> 
 - Clone your fork git clone https://github.com/your-username/ToolX
 - Add changes
 - Create a pull request
