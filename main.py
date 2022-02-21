@@ -4,6 +4,7 @@ import random
 import django
 
 
+            
 ### Code for dice
 
 class bcolors:
@@ -294,7 +295,6 @@ while True:
 
         print(base64_bytes)
         time.sleep(5)
-
 
 
 
