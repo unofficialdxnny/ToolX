@@ -3,16 +3,20 @@
 </p></a>
 
 
+---------------------------
 
 ### Contributing
 
 Please make sure that all tools that you add are in the same loop and these can be anything useful that can be used on a day to day bases 
-Please view the <a href="">CONTRIBUTING.md</a> For further details(recommended)
+Please view the <a href="https://github.com/unofficialdxnny/ToolX/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a> For further details(recommended)
 
 - Fork the repository https://github.com/your-username/ToolX
 - Clone your fork git clone https://github.com/your-username/ToolX
 - Add changes
 - Create a pull request
+
+
+---------------------------
 
 
 
@@ -35,3 +39,6 @@ Please view the <a href="">CONTRIBUTING.md</a> For further details(recommended)
 - 8. Encode To Base64
 
 - 0. Exit
+
+
+---------------------------
