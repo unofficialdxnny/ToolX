@@ -9,3 +9,5 @@
 ----
 
 ### Code Explanation
+
+I have decided to explain the code from 0 - 100% as I'd like complete beginners to have a go with this project. ;) 
