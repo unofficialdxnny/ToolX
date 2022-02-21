@@ -26,7 +26,7 @@ I have decided to explain the code from 0 - 100% as I'd like complete beginners 
 
 So proceeding from the first line i have imported some modules i am going to use
 
-<img src="./images/imports">
+<img src="./images/imports.jpg">
 
 
 ### Colour Usage 
@@ -36,14 +36,14 @@ The next section is creating the class for the banner and or other text.
  
 Simply use the `defined` code after the `variable` to use that color 
 
-<img src="">
+<img src="./images/colours.jpg">
 
 Each code : color can be viewed <a href="">HERE</a>
 
 
 ### The Menu
 
-<img src="">
+![image](https://user-images.githubusercontent.com/82535503/155003951-d8bd5c8f-d054-45e1-a3ac-5b02f93d755b.png)
 
 Here you will type your tools name and than allign it accordingly
 
@@ -54,7 +54,7 @@ Here you will type your tools name and than allign it accordingly
 This is a section of the code
 
 
-<img src="">
+<img src="./images/structure.jpg">
 
 
 Here the user is prompted to type the `number` of the `Tool` they wish to use
@@ -66,7 +66,7 @@ All that `elif` means is `but if`.  Putting that definition easier will be , if 
 
 ### Your Tool
 
-<img src="">
+<img src="./images/the code.jpg">
 
 What you need to `ALWAYS` include is the `elif opt == n:` where n is the next number in the code.
 
@@ -77,19 +77,5 @@ After the last `print("")` statement `import` any `modules` required for that co
 
 So the `structure` is now going to look like this:
 
-
-```  elif opt == 5:
-        os.system('cls')
-        print(banner)
-        print("")
-        import (module name)
-        import (module name)
-        import (module name)
-        import (module name)
-        // your code here
-         // your code here
-          // your code here
-           // your code here
-            // your code here
-```
+![image](https://user-images.githubusercontent.com/82535503/155003795-f0f2fafd-5796-47fd-935a-b86481758252.png)
 
